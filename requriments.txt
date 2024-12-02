@@ -1,0 +1,7 @@
+streamlit
+librosa
+joblib
+pandas
+openai-whisper
+matplotlib
+ipykernel

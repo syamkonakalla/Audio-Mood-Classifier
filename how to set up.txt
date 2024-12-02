@@ -1,0 +1,16 @@
+How to set up the project
+1)After unziping the folder open the folder in the visual studio
+
+2)Run the the following command in the terminal
+
+conda -p create venv python==3.11 -y
+
+3)activate the venv(after the second step it will show how to activate venv just copy the comand and run it)
+
+4)run the following command
+streamlit run new.python
+
+
+
+note :
+make sure dont change any file locations and names.
