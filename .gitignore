@@ -1,0 +1,33 @@
+# secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+*.egg-info/
+
+# notebooks
+.ipynb_checkpoints/
+
+# data & artifacts (large / regenerable)
+*.csv
+!TitanicPassengers.csv
+!labeled_songs*.csv
+!data.csv
+!happy_songs.csv
+*.zip
+*.h5
+*.pkl.big
+
+# os / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
